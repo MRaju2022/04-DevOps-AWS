@@ -1,1 +1,3 @@
 Hello, welcome to devops with aws sessions..!!!
+7:30 to 8:30 AWS class
+8:30 to 9:30 DevOps class
